@@ -18,7 +18,7 @@ This is an advanced calculator application built using **Python** and **CustomTk
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/AdvancedCalculator.git
+   git clone https://github.com/chaithanyasarvepalli/AdvancedCalculator.git
    ```
 2. Navigate to the project folder:
    ```sh
